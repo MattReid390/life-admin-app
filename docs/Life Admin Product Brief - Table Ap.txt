@@ -1,0 +1,8 @@
+Life Admin Product Brief - Table Appendices
+
+Appendix A: Benefit Delivery Mechanisms  
+This appendix outlines the underlying processes that support each benefit, including AI‑driven document extraction, automated deadline‑tracking logic, dashboard prioritisation rules, price‑comparison methodology, and household‑sharing permission structures.
+
+Appendix B: Technical Architecture Decisions  
+This appendix expands on the technology choices outlined in Table 2, including justification for the selected backend runtime, framework, database engine, hosting providers, OCR services, frontend stack, UI libraries, authentication mechanisms, scheduling tools, mobile strategy, notification infrastructure, deployment platforms, error tracking, analytics, and version control. It also documents the evaluation criteria used when comparing alternatives such as performance, ecosystem maturity, cost, scalability, and developer familiarity.
+
